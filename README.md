@@ -1,18 +1,27 @@
 <div align="center">
 
-<!-- Animated Matrix/Hacker Header with cooler effect -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:000000,50:0D1117,100:00D4FF&text=ADITYA%20PATEL&fontColor=00D4FF&fontSize=65&animation=blinking&stroke=FF6F00&strokeWidth=3&fontAlignY=50&desc=AI%20%7C%20ML%20%7C%20Agentic%20AI%20Engineer&descSize=18&descAlignY=75&descColor=C9D1D9" />
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║           EPIC 3D ANIMATED HEADER BANNER                      ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D1117,50:00D4FF,100:FF6F00&text=ADITYA%20PATEL&fontColor=fff&fontSize=70&animation=twinkling&stroke=00D4FF&strokeWidth=2&fontAlignY=55&desc=AI%20Engineer%20%7C%20Software%20Engineer&descSize=25&descAlignY=75&descAlign=50" />
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║           TERMINAL / CODE STYLE STATUS BAR                  ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=root%40aditya-patel%3A~%24%20whoami;%3E%20ADITYA%20PATEL%20%E2%80%94%20AI%20%26%20Software%20Engineer;%3E%20Location%3A%20Mumbai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3;%3E%20Status%3A%20Open%20to%20Opportunities%20%F0%9F%9F%A2;%3E%20Mission%3A%20Building%20AI%20that%20actually%20works%20%F0%9F%9A%80" alt="Terminal Status" />
+</p>
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║           NEON MATRIX RAIN DIVIDER                          ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:FF6F00,100:00D4FF&height=3&section=header&animation=scaleIn" width="100%" />
 
 </div>
 
-<!-- Typing Animation -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Agentic+AI+Engineer+%F0%9F%A4%96;Building+Intelligent+AI+Systems+%F0%9F%A7%A0;Data+Science+%7C+Predictive+Modeling+%F0%9F%93%8A;Always+Learning+%F0%9F%9A%80+Always+Building+%F0%9F%92%BB;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
-</h3>
-
 <!-- Cool Status Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaPatel&label=%F0%9F%91%80%20Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adipatel399&label=%F0%9F%91%80%20Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/%F0%9F%94%A5-Focus%3A%20AI%20%26%20Machine%20Learning-0D1117?style=for-the-badge&logo=artificial-intelligence&logoColor=00D4FF&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/%F0%9F%93%8D-Mumbai%2C%20India-0D1117?style=for-the-badge&logo=google-maps&logoColor=FF6F00&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Opportunities-0D1117?style=for-the-badge&logo= handshake&logoColor=4ecdc4&labelColor=0D1117" />
@@ -32,7 +41,7 @@
 class AdityaPatel:
     def __init__(self):
         self.name = "Aditya Patel"
-        self.role = "AI Engineer & ML Developer"
+        self.role = "AI Engineer & Software Engineer"
         self.location = "Mumbai, India 🇮🇳"
         self.education = "B.Tech ICT @ PDEU"
         self.current = "AI Engineer Intern @ BNP Paribas"
@@ -152,10 +161,10 @@ me = AdityaPatel()
 ## 🏆 **ᴄᴏᴍᴘᴇᴛɪᴛɪᴠᴇ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ**
 
 <p align="center">
-  <a href="https://codeforces.com/profile/AdityaPatel" target="_blank">
+  <a href="https://codeforces.com/profile/Adipatel" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Specialist%20(1580)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/AdityaPatel" target="_blank">
+  <a href="https://www.codechef.com/users/adipatel_ict" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-4%E2%AD%90%20Coder%20(1879)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
@@ -172,7 +181,7 @@ me = AdityaPatel()
     <td width="50%">
       <h3 align="center">💊 Medicine Recommendation System</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="[https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=white](https://github.com/adipatel399/Med_recomendation)" /></a>
+        <a href="https://github.com/adipatel399/Med_recomendation" target="_blank"><img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br><br>
         <p>🤖 <b>94.7% accuracy</b> Random Forest with SMOTE</p>
         <p>🧠 Ollama AI LLM for NLP health advice</p>
@@ -184,7 +193,7 @@ me = AdityaPatel()
     <td width="50%">
       <h3 align="center">🤖 AI-Powered Python Code Generator</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="[https://img.shields.io/badge/View%20Project-FF6F00?style=for-the-badge&logo=github&logoColor=white](https://github.com/adipatel399/Python_Code_Generator_App)" /></a>
+        <a href="https://github.com/adipatel399/Python_Code_Generator_App" target="_blank"><img src="https://img.shields.io/badge/View%20Project-FF6F00?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br><br>
         <p>⚡ Auto-generates <b>100+ lines</b> of Python per request</p>
         <p>🎨 Syntax highlighting & error handling</p>
@@ -204,12 +213,12 @@ me = AdityaPatel()
 ## 📊 **ɢɪᴛʜᴜʙ sᴛᴀᴛs**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPatel&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6F00&text_color=C9D1D9&border_radius=15" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPatel&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6F00&fire=FF6F00&currStreakLabel=00D4FF&border_radius=15" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adipatel399&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6F00&text_color=C9D1D9&border_radius=15" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adipatel399&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6F00&fire=FF6F00&currStreakLabel=00D4FF&border_radius=15" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPatel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8&border_radius=15" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipatel399&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8&border_radius=15" height="180" />
 </p>
 
 <!-- Animated Divider -->
@@ -220,7 +229,7 @@ me = AdityaPatel()
 ## 📈 **ᴄᴏᴅɪɴɢ ᴀᴄᴛɪᴠɪᴛʏ**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPatel&bg_color=0D1117&color=00D4FF&line=FF6F00&point=FFFFFF&hide_border=true&area=true&area_color=FF6F0020&radius=16" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adipatel399&bg_color=0D1117&color=00D4FF&line=FF6F00&point=FFFFFF&hide_border=true&area=true&area_color=FF6F0020&radius=16" width="95%" />
 </p>
 
 <!-- Animated Divider -->
@@ -231,7 +240,7 @@ me = AdityaPatel()
 ## 🏅 **ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPatel&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adipatel399&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 </p>
 
 <!-- Animated Divider -->
@@ -242,20 +251,17 @@ me = AdityaPatel()
 ## 🤝 **ʟᴇᴛ's ᴄᴏɴɴᴇᴄᴛ!**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/AdityaPatel" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya399/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pateladitya4999@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/AdityaPatel" target="_blank">
+  <a href="https://codeforces.com/profile/Adipatel" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/AdityaPatel" target="_blank">
+  <a href="https://www.codechef.com/users/adipatel_ict" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/AdityaPatel" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
