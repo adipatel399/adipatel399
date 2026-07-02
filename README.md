@@ -9,7 +9,7 @@
 <!-- ║           TERMINAL / CODE STYLE STATUS BAR                  ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=root%40aditya-patel%3A~%24%20whoami;%3E%20ADITYA%20PATEL%20%E2%80%94%20AI%20%26%20Software%20Engineer;%3E%20Location%3A%20Mumbai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3;%3E%20Status%3A%20Open%20to%20Opportunities%20%F0%9F%9F%A2;%3E%20Mission%3A%20Building%20AI%20that%20actually%20works%20%F0%9F%9A%80" alt="Terminal Status" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=root%40aditya-patel%3A~%24%20whoami;%3E%20ADITYA%20PATEL%20%E2%80%94%20AI%20%26%20Software%20Engineer;%3E%20Location%3A%20Mumbai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3;%3E%20Status%3A%20Open%20to%20Opportunities;%3E%20Mission%3A%20Building%20AI%20that%20actually%20works%20%F0%9F%9A%80" alt="Terminal Status" />
 </p>
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
@@ -23,8 +23,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adipatel399&label=%F0%9F%91%80%20Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/%F0%9F%94%A5-Focus%3A%20AI%20%26%20Machine%20Learning-0D1117?style=for-the-badge&logo=artificial-intelligence&logoColor=00D4FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Mumbai%2C%20India-0D1117?style=for-the-badge&logo=google-maps&logoColor=FF6F00&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Opportunities-0D1117?style=for-the-badge&logo= handshake&logoColor=4ecdc4&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📍-Mumbai%2C%20India-0D1117?style=for-the-badge&logoColor=FF6F00&labelColor=0D1117" />
 </p>
 
 <!-- Animated Divider -->
@@ -213,16 +212,14 @@ me = AdityaPatel()
 ## 📊 **ɢɪᴛʜᴜʙ sᴛᴀᴛs**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adipatel399&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6F00&text_color=C9D1D9&border_radius=15" height="180" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adipatel399&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6F00&fire=FF6F00&currStreakLabel=00D4FF&border_radius=15" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipatel399&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8&border_radius=15" height="180" />
-</p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ---
 
@@ -235,18 +232,7 @@ me = AdityaPatel()
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
 
-## 🏅 **ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adipatel399&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</p>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 🤝 **ʟᴇᴛ's ᴄᴏɴɴᴇᴄᴛ!**
 
