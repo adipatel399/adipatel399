@@ -172,7 +172,7 @@ me = AdityaPatel()
     <td width="50%">
       <h3 align="center">💊 Medicine Recommendation System</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="#" target="_blank"><img src="[https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=white](https://github.com/adipatel399/Med_recomendation)" /></a>
         <br><br>
         <p>🤖 <b>94.7% accuracy</b> Random Forest with SMOTE</p>
         <p>🧠 Ollama AI LLM for NLP health advice</p>
@@ -184,7 +184,7 @@ me = AdityaPatel()
     <td width="50%">
       <h3 align="center">🤖 AI-Powered Python Code Generator</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/View%20Project-FF6F00?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="#" target="_blank"><img src="[https://img.shields.io/badge/View%20Project-FF6F00?style=for-the-badge&logo=github&logoColor=white](https://github.com/adipatel399/Python_Code_Generator_App)" /></a>
         <br><br>
         <p>⚡ Auto-generates <b>100+ lines</b> of Python per request</p>
         <p>🎨 Syntax highlighting & error handling</p>
