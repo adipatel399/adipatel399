@@ -209,29 +209,6 @@ me = AdityaPatel()
 
 ---
 
-## 📊 **ɢɪᴛʜᴜʙ sᴛᴀᴛs**
-
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adipatel399&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6F00&fire=FF6F00&currStreakLabel=00D4FF&border_radius=15" height="180" />
-</p>
-
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
----
-
-## 📈 **ᴄᴏᴅɪɴɢ ᴀᴄᴛɪᴠɪᴛʏ**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adipatel399&bg_color=0D1117&color=00D4FF&line=FF6F00&point=FFFFFF&hide_border=true&area=true&area_color=FF6F0020&radius=16" width="95%" />
-</p>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 
 
 ## 🤝 **ʟᴇᴛ's ᴄᴏɴɴᴇᴄᴛ!**
