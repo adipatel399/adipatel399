@@ -1,9 +1,29 @@
 <div align="center">
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           EPIC 3D ANIMATED HEADER BANNER                      ║ -->
+<!-- ║           TERMINAL BOOT HEADER                                ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D1117,50:00D4FF,100:FF6F00&text=ADITYA%20PATEL&fontColor=fff&fontSize=70&animation=twinkling&stroke=00D4FF&strokeWidth=2&fontAlignY=55&desc=AI%20Engineer%20%7C%20Software%20Engineer&descSize=25&descAlignY=75&descAlign=50" />
+```console
+aditya@github:~$ ./whoami --banner
+
+ █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗ 
+██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
+███████║██║  ██║██║   ██║    ╚████╔╝ ███████║
+██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║
+██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
+
+██████╗  █████╗ ████████╗███████╗██╗     
+██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║     
+██████╔╝███████║   ██║   █████╗  ██║     
+██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║     
+██║     ██║  ██║   ██║   ███████╗███████╗
+╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
+
+[ AI Engineer ] :: [ Software Engineer ] :: [ Mumbai, India ]
+
+aditya@github:~$ _
+```
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
 <!-- ║           TERMINAL / CODE STYLE STATUS BAR                  ║ -->
@@ -177,10 +197,10 @@ me = AdityaPatel()
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">💊 Medicine Recommendation System</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">🩺 Health.AI</h3>
       <div align="center">
-        <a href="https://github.com/adipatel399/Med_recomendation" target="_blank"><img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/adipatel399/Health.AI" target="_blank"><img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br><br>
         <p>🤖 <b>94.7% accuracy</b> Random Forest with SMOTE</p>
         <p>🧠 Ollama AI LLM for NLP health advice</p>
@@ -189,16 +209,28 @@ me = AdityaPatel()
         <p><code>Python</code> <code>Scikit-learn</code> <code>Ollama</code> <code>Flask</code></p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">🤖 AI-Powered Python Code Generator</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">🦾 J.A.R.V.I.S.</h3>
       <div align="center">
-        <a href="https://github.com/adipatel399/Python_Code_Generator_App" target="_blank"><img src="https://img.shields.io/badge/View%20Project-FF6F00?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/adipatel399/Jarvis" target="_blank"><img src="https://img.shields.io/badge/View%20Project-FF6F00?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br><br>
-        <p>⚡ Auto-generates <b>100+ lines</b> of Python per request</p>
-        <p>🎨 Syntax highlighting & error handling</p>
-        <p>📤 One-click code export</p>
-        <p>🔥 Groq API powered intelligent assistant</p>
-        <p><code>Python</code> <code>Flask</code> <code>Groq API</code> <code>Bootstrap</code></p>
+        <p>🎙️ Wake-word voice assistant that runs <b>locally</b></p>
+        <p>🛠️ Real agentic control of apps, files & the web</p>
+        <p>🖥️ Live arc-reactor HUD for answers and visuals</p>
+        <p>🔊 Natural speech in, spoken answers out</p>
+        <p><code>Python</code> <code>LLM Agents</code> <code>Speech</code> <code>macOS</code></p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📬 Job Agent</h3>
+      <div align="center">
+        <a href="https://github.com/adipatel399/JobAgent" target="_blank"><img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <br><br>
+        <p>✉️ Cold outreach on autopilot, <b>fully local</b></p>
+        <p>🧩 Auto-personalized emails + resume attach</p>
+        <p>⏱️ Smart pacing & send windows to dodge spam</p>
+        <p>📊 Live open / bounce tracking dashboard</p>
+        <p><code>Node.js</code> <code>Gmail API</code> <code>Cloudflare Worker</code></p>
       </div>
     </td>
   </tr>
