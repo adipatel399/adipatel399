@@ -27,7 +27,7 @@ root@aditya-patel:~$ ./whoami --banner
 <!-- ║           TERMINAL / CODE STYLE STATUS BAR                  ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=780&height=48&lines=root%40aditya-patel%3A~%24%20whoami%20%20%E2%9E%9C%20%20Aditya%20Patel%20%C2%B7%20AI%20%26%20Software%20Engineer;root%40aditya-patel%3A~%24%20pwd%20%20%E2%9E%9C%20%20Mumbai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3;root%40aditya-patel%3A~%24%20systemctl%20status%20me%20%20%E2%9E%9C%20%20%E2%97%8F%20open%20to%20opportunities;root%40aditya-patel%3A~%24%20.%2Fmission.sh%20%20%E2%9E%9C%20%20building%20AI%20that%20actually%20works%20%F0%9F%9A%80" alt="Terminal Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=780&height=48&lines=root%40aditya-patel%3A~%24%20whoami%20%20%E2%9E%9C%20%20Aditya%20Patel%20%C2%B7%20AI%20%26%20Software%20Engineer;root%40aditya-patel%3A~%24%20cat%20location.txt%20%20%E2%9E%9C%20%20Mumbai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3;root%40aditya-patel%3A~%24%20systemctl%20status%20me%20%20%E2%9E%9C%20%20%E2%97%8F%20open%20to%20opportunities;root%40aditya-patel%3A~%24%20.%2Fmission.sh%20%20%E2%9E%9C%20%20building%20AI%20that%20actually%20works%20%F0%9F%9A%80" alt="Terminal Status" />
 </p>
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
