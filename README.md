@@ -208,13 +208,13 @@ me = AdityaPatel()
       </div>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🦾 J.A.R.V.I.S.</h3>
+      <h3 align="center">🪨 ROCKY</h3>
       <div align="center">
-        <a href="https://github.com/adipatel399/Jarvis" target="_blank"><img src="https://img.shields.io/badge/View%20Project-FF6F00?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/adipatel399/Rocky" target="_blank"><img src="https://img.shields.io/badge/View%20Project-FF6F00?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br><br>
         <p>🎙️ Wake-word voice assistant that runs <b>locally</b></p>
         <p>🛠️ Real agentic control of apps, files & the web</p>
-        <p>🖥️ Live arc-reactor HUD for answers and visuals</p>
+        <p>🌍 Glowing HUD with a photoreal 3D globe</p>
         <p>🔊 Natural speech in, spoken answers out</p>
         <p><code>Python</code> <code>LLM Agents</code> <code>Speech</code> <code>macOS</code></p>
       </div>
