@@ -220,15 +220,15 @@ me = AdityaPatel()
       </div>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">📬 Job Agent</h3>
+      <h3 align="center">🛡️ Sarathi.AI</h3>
       <div align="center">
-        <a href="https://github.com/adipatel399/JobAgent" target="_blank"><img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/adipatel399/Sarathi.AI" target="_blank"><img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br><br>
-        <p>✉️ Cold outreach on autopilot, <b>fully local</b></p>
-        <p>🧩 Auto-personalized emails + resume attach</p>
-        <p>⏱️ Smart pacing & send windows to dodge spam</p>
-        <p>📊 Live open / bounce tracking dashboard</p>
-        <p><code>Node.js</code> <code>Gmail API</code> <code>Cloudflare Worker</code></p>
+        <p>👵 Explains confusing messages and documents for elderly Indians</p>
+        <p>🧠 Fine-tuned Qwen3-4B replies in simple Hindi or English</p>
+        <p>🛡️ Flags scams and alerts family when a message is dangerous</p>
+        <p>🔒 Model, OCR and speech run <b>locally</b></p>
+        <p><code>Python</code> <code>Qwen3-4B</code> <code>MLX</code> <code>Telegram</code></p>
       </div>
     </td>
   </tr>
